@@ -1,0 +1,8 @@
+.env
+# l'etoile(*) c'est pour tout les .env (test, production et autres)
+.env*
+
+node_modules/
+
+logs/
+
